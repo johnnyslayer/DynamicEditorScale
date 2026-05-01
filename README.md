@@ -9,6 +9,9 @@ Open your project the engine version of which have the plugin already installed 
 When you set the plugin, as default you can use alt + mouse wheel to zoom in or zoom out the editor UI scale
 
 Set tool Parameters in Editor Preferences / Plugin / Dynamic Editor Scale
+You can set which Modifier Key and set scale value
+<img width="2100" height="1180" alt="5" src="https://github.com/user-attachments/assets/822aa20f-cb81-4dd4-b441-793a2f1778d9" />
 
 # Some info
 I Set MinScale as 0.2 and MaxScale as 3.0 ...  I think that would be OK
+
