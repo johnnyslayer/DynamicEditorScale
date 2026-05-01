@@ -1,4 +1,4 @@
-# DynamicEditorScale
+# DynamicEditorScale Document
 
 # Installing the Plugin
 Open Epic Games Launcher, head to Fab Library tab and find Dynamic Editor Scale Plugin. Press Install to Engine button and choose the appropriate engine version for you.
